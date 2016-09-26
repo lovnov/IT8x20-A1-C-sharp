@@ -1,0 +1,6 @@
+C:\Users\21604419\documents\visual studio 2015\Projects\IT8x20\IT8x20\bin\Debug\IT8x20.exe.config
+C:\Users\21604419\documents\visual studio 2015\Projects\IT8x20\IT8x20\bin\Debug\IT8x20.exe
+C:\Users\21604419\documents\visual studio 2015\Projects\IT8x20\IT8x20\bin\Debug\IT8x20.pdb
+C:\Users\21604419\documents\visual studio 2015\Projects\IT8x20\IT8x20\obj\Debug\IT8x20.exe
+C:\Users\21604419\documents\visual studio 2015\Projects\IT8x20\IT8x20\obj\Debug\IT8x20.pdb
+C:\Users\21604419\documents\visual studio 2015\Projects\IT8x20\IT8x20\obj\Debug\IT8x20.csprojResolveAssemblyReference.cache
